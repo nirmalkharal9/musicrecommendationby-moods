@@ -1,10 +1,6 @@
-## Authors
-
-- [@Pavankumar-Mhaske](https://github.com/Pavankumar-Mhaske)
-
 # 🚀 About project 💖
 
-# 🕔 ⚙ Musition ✌🏻 ⭐
+# 🕔 ⚙ Music Recommender by Your Moods ✌🏻 ⭐
 
-### 🙏 Welcome to Musition 🙏 - Your personal musician! 🎶
+### 🙏 Welcome to Music Recommendation Based on Facial Emotion🙏 - Your personal Recommender! 🎶
 
